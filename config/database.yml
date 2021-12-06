@@ -84,3 +84,8 @@ production:
   database: ck_back_end_production
   username: ck_back_end
   password: <%= ENV['CK_BACK_END_DATABASE_PASSWORD'] %>
+development:
+  adapter: postgresql
+  host: localhost
+  username: user
+  database: app-dev
