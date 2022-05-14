@@ -8,6 +8,7 @@
  
 ---
 Care Keeper, is an app meant for use by pet sitters, so they can keep track of all of the pets in their care. It allows users to add and remove pets, as well as search by name. It features a React front-end and Ruby-on-Rails and PostgreSQL back-end.
+![CareKeeperFrontPage](https://user-images.githubusercontent.com/86963506/168403042-d879d026-59cd-40be-af2d-ac22ede15369.JPG)
 
 
 ---
